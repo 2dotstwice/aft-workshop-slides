@@ -158,8 +158,19 @@ body {
 	  }
 	}
   }
-  pre code {
+  code {
+	background-color: darken($brand-color-primary, 10%);
+	padding: 0 7px;
+	border-radius: 3px;
+	font-size: 0.8em;
+  }
+  code.branch {
 	background-color: rgba(black, .8);
+  }
+  pre code {
+	font-size: 1em;
+	background-color: rgba(black, .8);
+	border-radius: 0;
   }
 }
 

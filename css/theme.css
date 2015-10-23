@@ -338,8 +338,17 @@ body {
       width: 28px; }
     .reveal ol li ol {
       counter-reset: numbering; }
-.reveal pre code {
+.reveal code {
+  background-color: #52285d;
+  padding: 0 7px;
+  border-radius: 3px;
+  font-size: 0.8em; }
+.reveal code.branch {
   background-color: rgba(0, 0, 0, 0.8); }
+.reveal pre code {
+  font-size: 1em;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0; }
 
 .reveal .controls div.navigate-right {
   border-left-color: white;
