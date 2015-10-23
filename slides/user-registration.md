@@ -6,6 +6,6 @@
 * In case of errors, render the `registration.twig` template with `errors` and `formValues`
 * Otherwise, save the user using a function `saveUser($user)` (key by username). Afterwards, redirect to `/user/login`
 
-Branch: <code class="branch">workshop/5-registration</code>
+GIT Branch: <code class="branch">workshop/5-registration</code>
 
 
