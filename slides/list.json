@@ -10,5 +10,6 @@
     "user-registration.md",
     "user-login.md",
     "user-logout.md",
-    "access-restriction.md"
+    "access-restriction.md",
+    "challenges.md"
 ]
