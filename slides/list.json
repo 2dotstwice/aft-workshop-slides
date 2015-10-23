@@ -9,5 +9,6 @@
     "guestbook-entries.md",
     "user-registration.md",
     "user-login.md",
-    "user-logout.md"
+    "user-logout.md",
+    "access-restriction.md"
 ]
