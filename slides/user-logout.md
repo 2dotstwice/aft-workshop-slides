@@ -4,3 +4,5 @@
 * `GET /user/logout` 
     * `$app['session']->remove('username')` to unset the username
     * Redirect to `/user/login`
+    
+GIT Branch: <code class="branch">workshop/7-logout</code>
