@@ -5,3 +5,5 @@
 * Check whether or not a username is set in the session data
 * If not, redirect to `/user/login`
 * http://silex.sensiolabs.org/doc/middlewares.html#route-middlewares
+
+GIT Branch: <code class="branch">workshop/8-access-control</code>
