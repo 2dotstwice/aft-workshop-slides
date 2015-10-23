@@ -7,5 +7,6 @@
     "guestbook-form-validation.md",
     "guestbook-entries.md",
     "user-registration.md",
-    "user-login.md"
+    "user-login.md",
+    "user-logout.md"
 ]
