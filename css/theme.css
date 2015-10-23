@@ -309,12 +309,14 @@ body {
   font-size: 90%; }
 .reveal ul {
   list-style: none;
-  margin: 0 0 1em;
+  margin: 0.5em 0;
   padding: 0; }
+  .reveal ul ul {
+    list-style: none; }
   .reveal ul li {
     padding-left: 25px;
     position: relative;
-    margin-bottom: 0.2em; }
+    margin-bottom: 0.4em; }
     .reveal ul li:before {
       content: '»';
       color: #eed530;
@@ -323,6 +325,8 @@ body {
       position: absolute;
       top: 0.05em;
       left: 0; }
+    .reveal ul li:last-child {
+      margin-bottom: 0; }
 .reveal ol {
   list-style: none;
   margin: 0 0 1em;
@@ -338,8 +342,17 @@ body {
       width: 28px; }
     .reveal ol li ol {
       counter-reset: numbering; }
-.reveal pre code {
+.reveal code {
+  background-color: #52285d;
+  padding: 0 7px;
+  border-radius: 3px;
+  font-size: 0.8em; }
+.reveal code.branch {
   background-color: rgba(0, 0, 0, 0.8); }
+.reveal pre code {
+  font-size: 1em;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0; }
 
 .reveal .controls div.navigate-right {
   border-left-color: white;

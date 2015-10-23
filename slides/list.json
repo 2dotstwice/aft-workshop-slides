@@ -1,4 +1,16 @@
 [
     "index.md",
-    "example.md"
+    "what-are-we-building.md",
+    "doc-link.md",
+    "guestbook-form.md",
+    "guestbook-form-submit.md",
+    "guestbook-form-submit-2.md",
+    "guestbook-form-validation.md",
+    "guestbook-entries.md",
+    "user-registration.md",
+    "user-login.md",
+    "user-logout.md",
+    "access-restriction.md",
+    "challenges.md",
+    "thanks.md"
 ]
