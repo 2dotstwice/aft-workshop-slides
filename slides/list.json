@@ -1,7 +1,8 @@
 [
     "index.md",
     "what-are-we-building.md",
-    "guestbook-post-form.md",
-    "guestbook-post-form-submit.md",
-    "guestbook-post-form-submit-2.md"
+    "guestbook-form.md",
+    "guestbook-form-submit.md",
+    "guestbook-form-submit-2.md",
+    "guestbook-form-validation.md"
 ]
