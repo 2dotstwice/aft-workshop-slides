@@ -291,6 +291,9 @@ body {
   .reveal .intro-logos {
     max-width: 500px;
     top: 100%; }
+.reveal .feedback .qr-code {
+  max-width: 300px;
+  max-height: 300px; }
 
 .reveal h1, .reveal h2, .reveal h3 {
   line-height: 1em; }
