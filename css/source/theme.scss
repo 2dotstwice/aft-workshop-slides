@@ -81,8 +81,8 @@ body {
   position: relative;
 }
 
-// Slides: 01
 .reveal {
+  // Slides: Intro
   .intro {
 	position: relative;
 	h1 {
@@ -93,8 +93,15 @@ body {
 	  top: 100%;
 	}
   }
-}
 
+  // Slides: Feedback
+  .feedback {
+	.qr-code {
+	  max-width: 300px;
+	  max-height: 300px;
+	}
+  }
+}
 
 // Typo
 .reveal {
